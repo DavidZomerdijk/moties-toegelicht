@@ -2,7 +2,7 @@
 
 Op deze github page publiceer ik [samenvattingen](moties.md) van tweede kamer moties die ik heb laten samenvatten door GPT3.5. 
 
-De samenvattingen komen tot stand door de motie in te lezen van de [API van de tweede kamer](https://opendata.tweedekamer.nl), waarna ik de text van de motie combineer met een prompt en deze door de [GPT3.5 API](https://openai.com/api/) af laat maken. 
+De samenvattingen worden gegenereerd door de tekst van een motie te combineren met een prompt en vervolgens door te sturen naar de [GPT API](https://openai.com/api/). De moties worden verkregen uit de [API van de tweede kamer](https://opendata.tweedekamer.nl).
 
 
 
@@ -11,7 +11,7 @@ De python code voor de API call:
 import openai
 prompt = "\nSamenvatting van bovenstaande text en impact van de motie, kort en bondig:\n"
 input = text_motie + prompt
-completion = openai.Completion.create(engine=engine,
+completion = openai.Completion.create(engine="text-davinci-003",
                                       prompt=input,
                                       temperature=0.3, 
                                       max_tokens=180, 
