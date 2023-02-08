@@ -16,7 +16,6 @@ completion = openai.Completion.create(engine=engine,
                                       temperature=0.3, 
                                       max_tokens=180, 
                                       frequency_penalty=0.0,
-                                    
                                       presence_penalty=0.0) 
 summary = completion.choices[0].text
 ```
