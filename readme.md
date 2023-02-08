@@ -7,7 +7,7 @@ De samenvattingen komen tot stand door de motie in te lezen van de [API van de t
 
 
 De python code voor de API call:
-```{python}
+```python
 import openai
 input = text_motie + "\nSamenvatting van bovenstaande text en impact van de motie, kort en bondig:\n"
 completion = openai.Completion.create(engine=engine,
