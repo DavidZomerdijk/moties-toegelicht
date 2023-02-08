@@ -1,4 +1,4 @@
-# Moties met GPT3.5 samenvattingen 
+## Moties met GPT3.5 samenvattingen 
 
 | Motie | Samenvatting | Link | Datum |
 |-------|--------------|-------|--------|

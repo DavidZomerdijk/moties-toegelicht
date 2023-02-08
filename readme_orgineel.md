@@ -24,6 +24,3 @@ summary = completion.choices[0].text
 Limitaties huidige versie:
 - Op dit moment kan deze tool nog geen samenvattingen maken van moties die zijn ingediend als .doc file
 - De samenvattingen zijn niet gecontroleerd op juistheid
-
-moties.md
-
