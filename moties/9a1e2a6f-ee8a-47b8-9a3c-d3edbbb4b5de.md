@@ -47,4 +47,4 @@ Tweede Kamer, vergaderjaar 2022–2023, 34 352, nr. 272
 Samenvatting van bovenstaande text en impact van de motie, kort en bondig:
 
 ## url naar orgineel:
-['url](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(9a1e2a6f-ee8a-47b8-9a3c-d3edbbb4b5de)/resource)
+[pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(9a1e2a6f-ee8a-47b8-9a3c-d3edbbb4b5de)/resource)

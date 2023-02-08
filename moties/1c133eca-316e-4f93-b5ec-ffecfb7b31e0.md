@@ -52,4 +52,4 @@ Tweede Kamer, vergaderjaar 2022–2023, 25 295, nr. 2009
 Samenvatting van bovenstaande text en impact van de motie, kort en bondig:
 
 ## url naar orgineel:
-['url](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(1c133eca-316e-4f93-b5ec-ffecfb7b31e0)/resource)
+[pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(1c133eca-316e-4f93-b5ec-ffecfb7b31e0)/resource)

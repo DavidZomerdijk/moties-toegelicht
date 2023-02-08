@@ -51,4 +51,4 @@ Tweede Kamer, vergaderjaar 2022–2023, 30 175, nr. 435
 Samenvatting van bovenstaande text en impact van de motie, kort en bondig:
 
 ## url naar orgineel:
-['url](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(cb9bc150-3d77-430e-9fcb-2efcae7de8f9)/resource)
+[pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(cb9bc150-3d77-430e-9fcb-2efcae7de8f9)/resource)

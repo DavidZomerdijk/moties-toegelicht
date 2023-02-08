@@ -50,4 +50,4 @@ Tweede Kamer, vergaderjaar 2022–2023, 34 334, nr. 29
 Samenvatting van bovenstaande text en impact van de motie, kort en bondig:
 
 ## url naar orgineel:
-['url](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(3c0dfe7f-5d43-4db8-a0fb-df20a5ca49d3)/resource)
+[pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(3c0dfe7f-5d43-4db8-a0fb-df20a5ca49d3)/resource)
