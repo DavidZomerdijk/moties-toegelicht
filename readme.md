@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
----
+# Tweede Kamer Moties Toegelicht 
 
 Op deze github page publiceer ik [samenvattingen](moties.md) van tweede kamer moties die ik heb laten samenvatten door GPT3.5. 
 
