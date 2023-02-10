@@ -46,8 +46,9 @@ ISSN 0921 - 7371
 
 Tweede Kamer, vergaderjaar 2022–2023, 34 334, nr. 29
 
-## Prompt:
+
+## Prompt:
 Samenvatting van bovenstaande text en impact van de motie, kort en bondig:
 
-## url naar orgineel:
+## Orgineel:
 [pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(3c0dfe7f-5d43-4db8-a0fb-df20a5ca49d3)/resource)
