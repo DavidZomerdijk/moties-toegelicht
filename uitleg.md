@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Hoe worden de samenvattingen gecreërd?
 
 
