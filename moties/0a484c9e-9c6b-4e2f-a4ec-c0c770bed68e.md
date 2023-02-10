@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: motie
 ---
 ## Titel
 Spoor: vervoer- en beheerplan

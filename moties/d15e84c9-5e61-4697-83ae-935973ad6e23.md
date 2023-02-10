@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: motie
 ---
 ## Titel
 Uitvoering en evaluatie Participatiewet
