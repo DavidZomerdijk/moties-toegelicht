@@ -7,8 +7,6 @@ De samenvattingen komen tot stand door dagelijks voor alle moties:
 - De input naar de [GPT3.5 API](https://openai.com/blog/openai-api/) te sturen om een samenvatting te creeren
 
 
-
-
 De python code voor de API call:
 ```python
 import openai
