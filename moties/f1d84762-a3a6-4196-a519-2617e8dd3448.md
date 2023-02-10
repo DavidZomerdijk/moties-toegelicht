@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Titel
 Kindermishandeling
 ## Onderwerp

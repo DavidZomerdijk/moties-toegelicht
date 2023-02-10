@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Titel
 Uitvoering en evaluatie Participatiewet
 ## Onderwerp

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Titel
 Spoor: vervoer- en beheerplan
 ## Onderwerp

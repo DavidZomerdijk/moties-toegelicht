@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Titel
 Onderwijs aan vreemdelingen
 ## Onderwerp

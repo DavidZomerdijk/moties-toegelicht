@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Moties met GPT3.5 samenvattingen 
 
 | Motie | Samenvatting & Implicatie | Orgineel | Datum |
