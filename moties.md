@@ -1,5 +1,3 @@
-# Moties met GPT3.5 samenvattingen 
-
 | Motie | Samenvatting & Implicatie | Orgineel | Datum |
 |-------|--------------|-------|--------|
 | [Motie van het lid Omtzigt over bevorderen dat in ieder geval leidinggevenden van ISIS die in Nederland worden opgepakt, worden vervolgd voor genocide - Terrorismebestrijding](moties/7a62e50b-6851-4bef-887a-082663dfa042) | niet beschikbaar | [word](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(7a62e50b-6851-4bef-887a-082663dfa042)/resource) | 2023-02-09 |
