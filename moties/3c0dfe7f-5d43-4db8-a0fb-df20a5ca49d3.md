@@ -1,9 +1,9 @@
 ---
 layout: motie
 ---
-## Titel
+## Titel:
 Onderwijs aan vreemdelingen
-## Onderwerp
+## Onderwerp:
 Motie van het lid Van Meenen over een coördinerende rol voor de regering in het bevoegd en bekwaam maken van docentvluchtelingen
 ## Implicaties:
 Implicaties niet beschikbaar.

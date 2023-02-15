@@ -1,9 +1,9 @@
 ---
 layout: motie
 ---
-## Titel
+## Titel:
 Kindermishandeling
-## Onderwerp
+## Onderwerp:
 Motie van het lid Helder c.s. over ervoor zorgen dat het aantasten van een stoffelijk overschot zelfstandig strafbaar is 
 ## Implicaties:
 Implicaties niet beschikbaar.

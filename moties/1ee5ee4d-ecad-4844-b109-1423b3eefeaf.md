@@ -1,9 +1,9 @@
 ---
 layout: motie
 ---
-## Titel
+## Titel:
 Luchtvaartbeleid
-## Onderwerp
+## Onderwerp:
 Motie van het lid Kröger c.s. over geen natuurvergunning voor Schiphol of Lelystad Airport voordat gegarandeerd is dat de luchtvaart op een eerlijke wijze bijdraagt aan het oplossen van het stikstofprobleem
 ## Implicaties:
 Implicaties niet beschikbaar.

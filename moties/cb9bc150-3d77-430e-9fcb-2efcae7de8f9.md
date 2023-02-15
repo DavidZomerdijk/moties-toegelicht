@@ -1,9 +1,9 @@
 ---
 layout: motie
 ---
-## Titel
+## Titel:
 Luchtkwaliteit
-## Onderwerp
+## Onderwerp:
 Motie van het lid Van der Plas over emissies van biologische oorsprong door mens en dier niet onder hetzelfde beleid laten vallen als industriële emissies
 ## Implicaties:
 Implicaties niet beschikbaar.

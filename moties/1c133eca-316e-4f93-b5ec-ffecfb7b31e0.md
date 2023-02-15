@@ -1,9 +1,9 @@
 ---
 layout: motie
 ---
-## Titel
+## Titel:
 Infectieziektenbestrijding
-## Onderwerp
+## Onderwerp:
 Motie van de leden Gündogan en Westerveld over een onderzoek naar de effecten van een één week snellere invoering van het eerste maatregelenpakket
 ## Implicaties:
 Implicaties niet beschikbaar.

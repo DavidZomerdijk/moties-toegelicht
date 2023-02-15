@@ -1,9 +1,9 @@
 ---
 layout: motie
 ---
-## Titel
+## Titel:
 Uitvoering en evaluatie Participatiewet
-## Onderwerp
+## Onderwerp:
 Motie van het lid Van Baarle over voorbereidingen treffen voor een mogelijke wetswijziging om structurele gegevensuitwisseling in de AlO mogelijk te maken
 ## Implicaties:
 Implicaties niet beschikbaar.

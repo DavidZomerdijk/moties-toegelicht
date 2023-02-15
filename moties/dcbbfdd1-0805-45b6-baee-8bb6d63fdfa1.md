@@ -1,9 +1,9 @@
 ---
 layout: motie
 ---
-## Titel
+## Titel:
 Luchtkwaliteit
-## Onderwerp
+## Onderwerp:
 Motie van het lid Bouchallikh c.s. over de WHO-normen voor luchtkwaliteit vastleggen in de herziening van de Luchtkwaliteitsrichtlijn
 ## Implicaties:
 Implicaties niet beschikbaar.

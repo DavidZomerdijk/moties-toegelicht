@@ -1,9 +1,9 @@
 ---
 layout: motie
 ---
-## Titel
+## Titel:
 Onderwijs aan vreemdelingen
-## Onderwerp
+## Onderwerp:
 Motie van de leden Westerveld en Van Meenen over een regeling om voor vluchtelingstudenten en jongeren die in afwachting zijn van een verblijfsstatus standaard het wettelijk collegegeld te vragen
 ## Implicaties:
 Implicaties niet beschikbaar.

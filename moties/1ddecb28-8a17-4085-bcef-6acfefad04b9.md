@@ -1,9 +1,9 @@
 ---
 layout: motie
 ---
-## Titel
+## Titel:
 Spoor: vervoer- en beheerplan
-## Onderwerp
+## Onderwerp:
 Motie van de leden Bouchallikh en De Hoop over het stimuleren van het gebruik van minder dichtbevolkte routes en andere modaliteiten voor het vervoer van gevaarlijke stoffen
 ## Implicaties:
 Implicaties niet beschikbaar.
