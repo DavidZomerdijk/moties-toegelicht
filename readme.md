@@ -1,6 +1,9 @@
-Op deze pagina worden elke dag GPT3 gegenereerde [samenvattingen en implicaties](moties.html) van tweede kamer moties gepubliceerd. 
 
-Voor meer informatie over hoe de samenvattingen tot stand komen check de [uitleg](uitleg.html).
+
+Op deze pagina worden elke dag GPT3 gegenereerde implicaties en samenvattingen
+van tweede kamer moties gepubliceerd. Klik ok de link van de motie voor de samenvatting en meer informatie.
+
+Voor meer informatie over hoe de implicaties en samenvatting tot stand komen, en de limitaties van deze website, check de [uitleg](uitleg.html).
 
 
 
