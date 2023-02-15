@@ -5,7 +5,9 @@ layout: motie
 Luchtkwaliteit
 ## Onderwerp
 Motie van het lid Van der Plas over emissies van biologische oorsprong door mens en dier niet onder hetzelfde beleid laten vallen als industriële emissies
-## Samenvatting & Implicatie:
+## Implicaties:
+Implicaties niet beschikbaar.
+## Samenvatting:
 
 Deze motie stelt voor om emissies van biologische oorsprong door mens en dier niet onder hetzelfde beleid te laten vallen als industriële emissies. Hierdoor zou de korte cyclus losgekoppeld worden van de lange cyclus van industriële emissies. Als deze motie wordt aangenomen, zou dit leiden tot een betere luchtkwaliteit en een vermindering van de schadelijke effecten van industriële emissies.
 ## Orginele text:
@@ -51,8 +53,10 @@ ISSN 0921 - 7371
 Tweede Kamer, vergaderjaar 2022–2023, 30 175, nr. 435
 
 
-## Prompt:
-Samenvatting van bovenstaande text en impact van de motie, kort en bondig:
+## Prompt samenvatting:
+prompt niet beschikbaar,
 
+## Prompt implicaties:
+prompt niet beschikbaar,
 ## Orgineel:
 [pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(cb9bc150-3d77-430e-9fcb-2efcae7de8f9)/resource)

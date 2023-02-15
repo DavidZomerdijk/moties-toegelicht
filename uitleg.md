@@ -5,24 +5,36 @@ layout: default
 # Hoe worden de samenvattingen gecreërd?
 
 
-De samenvattingen komen tot stand door dagelijks voor alle moties:
+De samenvattingen en implicaties komen tot stand door dagelijks voor alle moties:
 - De moties in te lezen via de [API van de tweede kamer](https://opendata.tweedekamer.nl)
 - een input prompt voor [GPT3.5](https://openai.com/blog/openai-api/) te creëren door de text van de motie te combineren met een zin die uitlegd wat gpt3 met de text moet doen (zie onderstaande code) 
-- De input naar de [GPT3.5 API](https://openai.com/blog/openai-api/) te sturen om een samenvatting te creeren
+- De input naar de [GPT3.5 API](https://openai.com/blog/openai-api/) te sturen om een samenvatting van de motie en een samenvatting van de implicaties te creeren
 
 
 De python code voor de API call:
 ```python
 import openai
-prompt = "\nSamenvatting van bovenstaande text en impact van de motie, kort en bondig:\n"
-input = text_motie + prompt
-completion = openai.Completion.create(engine=engine,
+
+samenvatting_prompt = "Samenvatting van bovenstaande motie, kort en bondig:\n",
+implicaties_prompt = "De gevolgen / implicaties van deze motie in 1 korte zin samengevat, beginnend met 'Als de motie wordt aangenomen dan' \n"
+
+# text and onderwerp_motie are retrieved from the tweede kamer API
+samenvatting_input = text_motie + onderwerp_motie + samenvatting_prompt
+implicaties_input = text_motie + onderwerp_motie + implicaties_prompt
+
+implicaties = openai.Completion.create(engine="text-davinci-003",
                                       prompt=input,
                                       temperature=0.3, 
-                                      max_tokens=180, 
+                                      max_tokens=100, 
                                       frequency_penalty=0.0,
-                                      presence_penalty=0.0) 
-summary = completion.choices[0].text
+                                      presence_penalty=0.0).choices[0].text
+
+samenvatting = openai.Completion.create(engine="text-davinci-003",
+                                        prompt=input,
+                                        temperature=0.3, 
+                                        max_tokens=180, 
+                                        frequency_penalty=0.0,
+                                        presence_penalty=0.0).choices[0].text
 ```
 
 

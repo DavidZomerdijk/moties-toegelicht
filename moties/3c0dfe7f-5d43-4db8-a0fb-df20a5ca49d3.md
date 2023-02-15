@@ -5,7 +5,9 @@ layout: motie
 Onderwijs aan vreemdelingen
 ## Onderwerp
 Motie van het lid Van Meenen over een coördinerende rol voor de regering in het bevoegd en bekwaam maken van docentvluchtelingen
-## Samenvatting & Implicatie:
+## Implicaties:
+Implicaties niet beschikbaar.
+## Samenvatting:
 
 Deze motie stelt voor dat de regering een coördinerende rol vervult in het bevoegd en bekwaam maken van docentvluchtelingen, waarbij passend onderwijsaanbod, ontwikkelbudget en financiering van ontwikkeltrajecten worden geboden. Als deze motie wordt aangenomen, zal het lerarentekort in Nederland worden verminderd en zullen vluchtelingen die een verblijfsstatus hebben, arbeidsplichtig zijn en in het bezit zijn van een onderwijsbevoegdheid in het land van herk
 ## Orginele text:
@@ -50,8 +52,10 @@ ISSN 0921 - 7371
 Tweede Kamer, vergaderjaar 2022–2023, 34 334, nr. 29
 
 
-## Prompt:
-Samenvatting van bovenstaande text en impact van de motie, kort en bondig:
+## Prompt samenvatting:
+prompt niet beschikbaar,
 
+## Prompt implicaties:
+prompt niet beschikbaar,
 ## Orgineel:
 [pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(3c0dfe7f-5d43-4db8-a0fb-df20a5ca49d3)/resource)

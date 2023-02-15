@@ -5,7 +5,9 @@ layout: motie
 Luchtkwaliteit
 ## Onderwerp
 Motie van het lid Bouchallikh c.s. over de WHO-normen voor luchtkwaliteit vastleggen in de herziening van de Luchtkwaliteitsrichtlijn
-## Samenvatting & Implicatie:
+## Implicaties:
+Implicaties niet beschikbaar.
+## Samenvatting:
 
 Deze motie stelt de regering in staat om zich in te zetten voor het vastleggen van de WHO-normen voor luchtkwaliteit in de herziening van de Luchtkwaliteitsrichtlijn. Hiermee wordt de ambitie verhoogd om de WHO-advieswaarden voor fijnstof in 2030 te bereiken, waardoor Nederland niet langer de enige lidstaat zal zijn die niet aan de normen voldoet.
 ## Orginele text:
@@ -54,8 +56,10 @@ ISSN 0921 - 7371
 Tweede Kamer, vergaderjaar 2022–2023, 30 175, nr. 433
 
 
-## Prompt:
-Samenvatting van bovenstaande text en impact van de motie, kort en bondig:
+## Prompt samenvatting:
+prompt niet beschikbaar,
 
+## Prompt implicaties:
+prompt niet beschikbaar,
 ## Orgineel:
 [pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(dcbbfdd1-0805-45b6-baee-8bb6d63fdfa1)/resource)
