@@ -13,9 +13,11 @@ Samenvatting niet beschikbaar.
 Text motie niet beschikbaar.
 
 ## Prompt samenvatting:
-prompt niet beschikbaar,
+Samenvatting van bovenstaande motie, kort en bondig:
+
 
 ## Prompt implicaties:
-prompt niet beschikbaar,
+De gevolgen / implicaties van deze motie in 1 korte zin samengevat, beginnend met 'Als de motie wordt aangenomen dan' 
+
 ## Orgineel:
 [word](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(1ee5ee4d-ecad-4844-b109-1423b3eefeaf)/resource)

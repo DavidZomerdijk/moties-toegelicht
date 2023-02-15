@@ -6,10 +6,11 @@ Spoor: vervoer- en beheerplan
 ## Onderwerp:
 Motie van de leden Bouchallikh en De Hoop over het stimuleren van het gebruik van minder dichtbevolkte routes en andere modaliteiten voor het vervoer van gevaarlijke stoffen
 ## Implicaties:
-Implicaties niet beschikbaar.
+
+Als de motie wordt aangenomen, dan zal de regering onderzoeken in hoeverre vervoerders gestimuleerd kunnen worden om zo veel mogelijk gebruik te maken van minder dichtbevolkte routes en andere modaliteiten voor het vervoer van gevaarlijke stoffen.
 ## Samenvatting:
 
-Deze motie vraagt de regering om te onderzoeken hoe vervoerders gestimuleerd kunnen worden om minder dichtbevolkte routes en andere modaliteiten te gebruiken voor het vervoer van gevaarlijke stoffen. Hiermee wordt beoogd om een veilig vervoer van gevaarlijke stoffen te realiseren, terwijl er tegelijkertijd steeds meer woonwijken in spoorzones gebouwd worden. De regering wordt verzocht de Kamer hier voor het zomerreces over te informeren.
+De leden Bouchallikh en De Hoop verzoeken de regering om te onderzoeken in hoeverre vervoerders gestimuleerd kunnen worden zo veel mogelijk gebruik te maken van minder dichtbevolkte routes en andere modaliteiten teneinde een veilig vervoer van gevaarlijke stoffen te realiseren.
 ## Orginele text:
 
 
@@ -58,9 +59,11 @@ Tweede Kamer, vergaderjaar 2022–2023, 29 984, nr. 1085
 
 
 ## Prompt samenvatting:
-prompt niet beschikbaar,
+Samenvatting van bovenstaande motie, kort en bondig:
+
 
 ## Prompt implicaties:
-prompt niet beschikbaar,
+De gevolgen / implicaties van deze motie in 1 korte zin samengevat, beginnend met 'Als de motie wordt aangenomen dan' 
+
 ## Orgineel:
 [pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(1ddecb28-8a17-4085-bcef-6acfefad04b9)/resource)

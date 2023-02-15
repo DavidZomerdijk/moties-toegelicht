@@ -19,8 +19,8 @@ samenvatting_prompt = "Samenvatting van bovenstaande motie, kort en bondig:\n",
 implicaties_prompt = "De gevolgen / implicaties van deze motie in 1 korte zin samengevat, beginnend met 'Als de motie wordt aangenomen dan' \n"
 
 # text and onderwerp_motie are retrieved from the tweede kamer API
-samenvatting_input = text_motie + onderwerp_motie + samenvatting_prompt
-implicaties_input = text_motie + onderwerp_motie + implicaties_prompt
+samenvatting_input = onderwerp_motie + '\n\n' + text_motie + '\n\n' + samenvatting_prompt
+implicaties_input = onderwerp_motie + '\n\n' + text_motie + '\n\n' + implicaties_prompt
 
 implicaties = openai.Completion.create(engine="text-davinci-003",
                                       prompt=input,

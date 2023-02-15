@@ -6,10 +6,11 @@ Kindermishandeling
 ## Onderwerp:
 Motie van het lid Helder c.s. over ervoor zorgen dat het aantasten van een stoffelijk overschot zelfstandig strafbaar is 
 ## Implicaties:
-Implicaties niet beschikbaar.
+
+Als de motie wordt aangenomen, dan zal het aantasten van een stoffelijk overschot zelfstandig strafbaar worden.
 ## Samenvatting:
 
-Deze motie stelt voor om de juridische status van een stoffelijk overschot te wijzigen, zodat het aantasten ervan, in welke vorm dan ook, zelfstandig strafbaar is. Hiermee wordt een ernstige inbreuk op de lichamelijke integriteit van de overledene en de nabestaanden voorkomen.
+De Kamer verzoekt de regering om de juridische status van een stoffelijk overschot zodanig te wijzigen dat het aantasten daarvan, in welke zin dan ook, zelfstandig strafbaar is.
 ## Orginele text:
 
 
@@ -56,9 +57,11 @@ Tweede Kamer, vergaderjaar 2022–2023, 31 015, nr. 267
 
 
 ## Prompt samenvatting:
-prompt niet beschikbaar,
+Samenvatting van bovenstaande motie, kort en bondig:
+
 
 ## Prompt implicaties:
-prompt niet beschikbaar,
+De gevolgen / implicaties van deze motie in 1 korte zin samengevat, beginnend met 'Als de motie wordt aangenomen dan' 
+
 ## Orgineel:
 [pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(3b0deb53-7f4e-4a5d-ae46-8daa88ef7f7c)/resource)

@@ -6,10 +6,11 @@ Onderwijs aan vreemdelingen
 ## Onderwerp:
 Motie van de leden Westerveld en Van Meenen over een regeling om voor vluchtelingstudenten en jongeren die in afwachting zijn van een verblijfsstatus standaard het wettelijk collegegeld te vragen
 ## Implicaties:
-Implicaties niet beschikbaar.
+
+Als de motie wordt aangenomen dan zal er een regeling worden getroffen waardoor vluchtelingstudenten en jongeren die in afwachting zijn van een verblijfsstatus standaard het wettelijk collegegeld wordt gevraagd.
 ## Samenvatting:
 
-Deze motie van de leden Westerveld en Van Meenen vraagt de regering om in samenspraak met onderwijsinstellingen en belangenorganisaties voor het voorjaar 2023 een regeling te treffen waardoor voor vluchtelingstudenten en jongeren die in afwachting zijn van een verblijfsstatus standaard het wettelijk collegegeld wordt gevraagd. Deze motie heeft als doel om de financiële drempel voor deze studenten te verlagen, zodat zij toegang krijgen tot onderwijs, ongeacht hun financiële situatie.
+De leden Westerveld en Van Meenen verzoeken de regering om in samenspraak met onderwijsinstellingen en belangenorganisaties voor het voorjaar 2023 een regeling te treffen waardoor voor vluchtelingstudenten en jongeren die in afwachting zijn van een verblijfsstatus standaard het wettelijk collegegeld wordt gevraagd.
 ## Orginele text:
 
 
@@ -60,9 +61,11 @@ Tweede Kamer, vergaderjaar 2022–2023, 34 334, nr. 26
 
 
 ## Prompt samenvatting:
-prompt niet beschikbaar,
+Samenvatting van bovenstaande motie, kort en bondig:
+
 
 ## Prompt implicaties:
-prompt niet beschikbaar,
+De gevolgen / implicaties van deze motie in 1 korte zin samengevat, beginnend met 'Als de motie wordt aangenomen dan' 
+
 ## Orgineel:
 [pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(bba9eab7-90ff-490b-aeb7-9a7782aebf99)/resource)

@@ -6,10 +6,11 @@ Uitvoering en evaluatie Participatiewet
 ## Onderwerp:
 Motie van het lid Van Baarle over voorbereidingen treffen voor een mogelijke wetswijziging om structurele gegevensuitwisseling in de AlO mogelijk te maken
 ## Implicaties:
-Implicaties niet beschikbaar.
+
+Als de motie wordt aangenomen dan worden er voorbereidingen getroffen voor een mogelijke wetswijziging om structurele gegevensuitwisseling in de AlO mogelijk te maken.
 ## Samenvatting:
 
-Deze motie vraagt de regering om voorbereidingen te treffen voor een mogelijke wetswijziging om structurele gegevensuitwisseling in de AlO mogelijk te maken. Als de pilot die de SVB uitvoert succesvol is, kan deze techniek structureel worden benut. Deze motie zou de SVB in staat stellen om mensen sneller en meer effectief te benaderen die recht hebben op de AIO.
+De Kamer verzoekt de regering om voorbereidingen te treffen voor een mogelijke wetswijziging om structurele gegevensuitwisseling in de AlO mogelijk te maken, ten behoeve van een spoedige uitrol indien de pilot hier aanleiding toe geeft.
 ## Orginele text:
 
 
@@ -50,9 +51,11 @@ Tweede Kamer, vergaderjaar 2022–2023, 34 352, nr. 272
 
 
 ## Prompt samenvatting:
-prompt niet beschikbaar,
+Samenvatting van bovenstaande motie, kort en bondig:
+
 
 ## Prompt implicaties:
-prompt niet beschikbaar,
+De gevolgen / implicaties van deze motie in 1 korte zin samengevat, beginnend met 'Als de motie wordt aangenomen dan' 
+
 ## Orgineel:
 [pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(9a1e2a6f-ee8a-47b8-9a3c-d3edbbb4b5de)/resource)

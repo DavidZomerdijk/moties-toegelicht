@@ -6,10 +6,11 @@ Infectieziektenbestrijding
 ## Onderwerp:
 Motie van de leden Gündogan en Westerveld over een onderzoek naar de effecten van een één week snellere invoering van het eerste maatregelenpakket
 ## Implicaties:
-Implicaties niet beschikbaar.
+
+Als de motie wordt aangenomen dan zal de regering onderzoeken wat de effecten van een snellere invoering van het eerste maatregelenpakket met één week vooruit had kunnen betekenen en deze inzichten betrekken bij nadere onderzoeken over de effectiviteit van maatregelen.
 ## Samenvatting:
 
-Deze motie vraagt de regering om te onderzoeken wat de effecten zouden zijn geweest als het eerste maatregelenpakket (de eerste lockdown) een week eerder was ingevoerd. De resultaten van dit onderzoek zouden gebruikt kunnen worden om de effectiviteit van maatregelen die op dit moment door het RIVM in Europees verband worden uitgevoerd, te beoordelen. Als de motie wordt aangenomen, zal dit een betere basis bieden voor toekomstige besluitvorming over maatregelen tegen infectieziek
+De leden Gündogan en Westerveld verzoeken de regering om te onderzoeken wat de effecten zouden zijn geweest als het eerste maatregelenpakket (de eerste lockdown) een week eerder was ingevoerd, en de inzichten te betrekken bij nadere onderzoeken over de effectiviteit van maatregelen die op dit moment door het RIVM in Europees verband worden uitgevoerd.
 ## Orginele text:
 
 
@@ -55,9 +56,11 @@ Tweede Kamer, vergaderjaar 2022–2023, 25 295, nr. 2009
 
 
 ## Prompt samenvatting:
-prompt niet beschikbaar,
+Samenvatting van bovenstaande motie, kort en bondig:
+
 
 ## Prompt implicaties:
-prompt niet beschikbaar,
+De gevolgen / implicaties van deze motie in 1 korte zin samengevat, beginnend met 'Als de motie wordt aangenomen dan' 
+
 ## Orgineel:
 [pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(1c133eca-316e-4f93-b5ec-ffecfb7b31e0)/resource)

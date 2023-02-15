@@ -6,10 +6,11 @@ Luchtkwaliteit
 ## Onderwerp:
 Motie van het lid Bouchallikh c.s. over de WHO-normen voor luchtkwaliteit vastleggen in de herziening van de Luchtkwaliteitsrichtlijn
 ## Implicaties:
-Implicaties niet beschikbaar.
+
+Als de motie wordt aangenomen, dan zal de WHO-normen voor luchtkwaliteit wettelijk verankerd worden in de herziening van de Luchtkwaliteitsrichtlijn.
 ## Samenvatting:
 
-Deze motie stelt de regering in staat om zich in te zetten voor het vastleggen van de WHO-normen voor luchtkwaliteit in de herziening van de Luchtkwaliteitsrichtlijn. Hiermee wordt de ambitie verhoogd om de WHO-advieswaarden voor fijnstof in 2030 te bereiken, waardoor Nederland niet langer de enige lidstaat zal zijn die niet aan de normen voldoet.
+De Kamer verzoekt de regering om zich er in Europa voor in te zetten dat de WHO-normen voor luchtkwaliteit worden vastgelegd in de herziening van de Luchtkwaliteitsrichtlijn.
 ## Orginele text:
 
 
@@ -57,9 +58,11 @@ Tweede Kamer, vergaderjaar 2022–2023, 30 175, nr. 433
 
 
 ## Prompt samenvatting:
-prompt niet beschikbaar,
+Samenvatting van bovenstaande motie, kort en bondig:
+
 
 ## Prompt implicaties:
-prompt niet beschikbaar,
+De gevolgen / implicaties van deze motie in 1 korte zin samengevat, beginnend met 'Als de motie wordt aangenomen dan' 
+
 ## Orgineel:
 [pdf](https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document(dcbbfdd1-0805-45b6-baee-8bb6d63fdfa1)/resource)
