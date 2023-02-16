@@ -1076,7 +1076,7 @@ body {
 .highlight .kr { font-weight: bold } /* Keyword.Reserved */
 .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
 .highlight .m { color: #009999 } /* Literal.Number */
-.highlight .s { color: #219c31
+.highlight .s { color: #219c31; font-weight: bolder;
 } /* Literal.String */
 .highlight .na { color: #008080 } /* Name.Attribute */
 .highlight .nb { color: #0086B3 } /* Name.Builtin */
@@ -1098,7 +1098,7 @@ body {
 .highlight .sc { color: #d14 } /* Literal.String.Char */
 .highlight .sd { color: #d14 } /* Literal.String.Doc */
 .highlight .s2 { color: #d14 } /* Literal.String.Double */
-.highlight .se { color: #142688
+.highlight .se { color: #142688; font-weight: bolder;
 } /* Literal.String.Escape */
 .highlight .sh { color: #d14 } /* Literal.String.Heredoc */
 .highlight .si { color: #d14 } /* Literal.String.Interpol */
