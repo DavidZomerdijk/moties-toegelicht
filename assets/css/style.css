@@ -1098,7 +1098,7 @@ body {
 .highlight .sc { color: #d14 } /* Literal.String.Char */
 .highlight .sd { color: #d14 } /* Literal.String.Doc */
 .highlight .s2 { color: #d14 } /* Literal.String.Double */
-.highlight .se { color: #142688; font-weight: bolder;
+.highlight .se { color: #142688; font-weight: bold;
 } /* Literal.String.Escape */
 .highlight .sh { color: #d14 } /* Literal.String.Heredoc */
 .highlight .si { color: #d14 } /* Literal.String.Interpol */
