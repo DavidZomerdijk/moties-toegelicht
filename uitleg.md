@@ -2,9 +2,6 @@
 layout: default
 ---
 
-# Hoe komen de implicaties en samenvattingen tot stand?
-
-
 De samenvattingen en implicaties komen tot stand door dagelijks voor alle moties:
 - De moties in te lezen via de [API van de tweede kamer](https://opendata.tweedekamer.nl)
 - een input prompt voor [GPT3.5](https://openai.com/blog/openai-api/) te creëren door de text van de motie te combineren met een zin die uitlegd wat gpt3 met de text moet doen (zie onderstaande code) 
