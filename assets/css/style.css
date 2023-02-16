@@ -1034,7 +1034,12 @@ body {
 .topnav a.active {
   background-color: #f3f3f3;
   /*color: white;*/
+  color: black;
   float: left;
+}
+
+.topnav a.active:hover {
+  color: #666;
 }
 /*.header {*/
 /*  padding: 0.2px;*/
