@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hoe worden de samenvattingen gecreërd?
+# Hoe komen de implicaties en samenvattingen tot stand?
 
 
 De samenvattingen en implicaties komen tot stand door dagelijks voor alle moties:
