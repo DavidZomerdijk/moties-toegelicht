@@ -1,4 +1,8 @@
+---
+layout: default
+---
 
+@import "{{ site.theme }}";
 
 Op deze pagina worden elke dag <strong>GPT3 gegenereerde implicaties en samenvattingen van tweede kamer moties</strong> gepubliceerd. Klik ok de link van de motie voor de samenvatting van de motie en meer informatie.
 
