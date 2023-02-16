@@ -12,7 +12,7 @@ De samenvattingen en implicaties komen tot stand door dagelijks voor alle moties
 
 
 De python code voor de API call:
-```python
+~~~python
 import openai
 
 samenvatting_prompt = "Samenvatting van bovenstaande motie, kort en bondig:\n",
@@ -35,7 +35,7 @@ samenvatting = openai.Completion.create(engine="text-davinci-003",
                                         max_tokens=180, 
                                         frequency_penalty=0.0,
                                         presence_penalty=0.0).choices[0].text
-```
+~~~
 
 
 Limitaties huidige versie:
