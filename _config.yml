@@ -1,3 +1,7 @@
 # Site settings
 title: Tweede Kamer Moties toegelicht
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 #remote_theme: vadiole/github-markdown-theme
