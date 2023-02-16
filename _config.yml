@@ -1,11 +1,8 @@
 # Site settings
 title: Tweede Kamer Moties
 # Conversion
-markdown:    kramdown
+markdown: kramdown
 
-# Markdown Processors
 kramdown:
-  input: GFM
-  auto_ids: true
   syntax_highlighter: rouge
-#remote_theme: vadiole/github-markdown-theme
+  input: GFM
