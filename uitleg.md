@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Deze webpagina heeft als doel te laten zien hoe Large Language Models (zoals GPT3) ingezet kunnen worden om de Nederlandse Politiek transparanter en inzichtelijker te maken. 
+Deze webpagina heeft als doel te laten zien hoe Large Language Models (zoals GPT3) ingezet kunnen worden om de Nederlandse politiek transparanter en inzichtelijker te maken. 
 
 
 ### Technische uitleg
