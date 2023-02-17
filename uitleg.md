@@ -2,9 +2,14 @@
 layout: default
 ---
 
+Deze webpagina heeft als doel te laten zien hoe Large Language Models (zoals GPT3) ingezet kunnen worden om de Nederlandse Politiek transparanter en inzichtelijker te maken. 
+
+
+### Technische uitleg
+
 De samenvattingen en implicaties komen tot stand door dagelijks voor alle moties:
 - De moties in te lezen via de [API van de tweede kamer](https://opendata.tweedekamer.nl)
-- een input prompt voor [GPT3.5](https://openai.com/blog/openai-api/) te creëren door de text van de motie te combineren met een zin die uitlegd wat gpt3 met de text moet doen (zie onderstaande code) 
+- Een input prompt voor [GPT3.5](https://openai.com/blog/openai-api/) te creëren door de text van de motie te combineren met een zin die uitlegd wat gpt3 met de text moet doen (zie onderstaande code) 
 - De input naar de [GPT3.5 API](https://openai.com/blog/openai-api/) te sturen om een samenvatting van de motie en een samenvatting van de implicaties te creeren
 
 
@@ -35,6 +40,16 @@ samenvatting = openai.Completion.create(engine="text-davinci-003",
 ~~~
 
 
-Limitaties huidige versie:
+### Limitaties huidige versie:
 - Op dit moment kan deze tool nog geen samenvattingen maken van moties die zijn ingediend als .doc file
 - De samenvattingen zijn niet gecontroleerd op juistheid
+
+### Backlog:
+- Extra attributen geven aan de motie
+  - Namen indieners
+  - Partijen indieners
+  - Onderwerp (e.g duurzaamheid, huisvesting, etc.)
+- Filter opties toevoegen
+- Pagina maken met overzicht moties per tweede kamer lid
+  - GPT3 Samenvatting laten maken van alle moties die dit kamerlid heeft ingediend
+- .doc files kunnen inlezen
