@@ -40,11 +40,11 @@ samenvatting = openai.Completion.create(engine="text-davinci-003",
 ~~~
 
 
-### Limitaties huidige versie:
+### Limitaties huidige versie
 - Op dit moment kan deze tool nog geen samenvattingen maken van moties die zijn ingediend als .doc file
 - De samenvattingen zijn niet gecontroleerd op juistheid
 
-### Backlog:
+### Backlog
 - Extra attributen geven aan de motie
   - Namen indieners
   - Partijen indieners
