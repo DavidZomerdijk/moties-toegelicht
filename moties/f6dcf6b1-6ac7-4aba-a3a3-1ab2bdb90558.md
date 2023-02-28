@@ -7,7 +7,7 @@ Internationaal fiscaal (verdrags)beleid
 Motie van het lid Romke de Jong over verkennen of internationale afspraken kunnen worden gemaakt over de aanpak van belastingontwijking door hyperrijken
 ## Implicaties:
 
-Als de motie wordt aangenomen dan zal de regering verkennen of internationale afspraken gemaakt kunnen worden over de aanpak van belastingontwijking door hyperrijken, met als doel effectievere maatregelen te treffen.
+Als de motie wordt aangenomen dan zal de regering verkennen of internationale afspraken kunnen worden gemaakt over de aanpak van belastingontwijking door hyperrijken, met inachtneming van de openbaarheid van gegevens over belastingontwijking door particulieren.
 ## Samenvatting:
 
 De Kamer verzoekt de regering te verkennen of internationale afspraken kunnen worden gemaakt over de aanpak van belastingontwijking door hyperrijken, met inbegrip van de openbaarheid van gegevens over belastingontwijking door particulieren, om effectievere maatregelen te kunnen treffen.

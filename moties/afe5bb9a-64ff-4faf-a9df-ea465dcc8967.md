@@ -7,45 +7,39 @@ Nationale Omgevingsvisie
 Motie van de leden Van Haga en Smolders over boeren niet gedwongen uitkopen 
 ## Implicaties:
 
-Als de motie wordt aangenomen dan zullen boeren niet gedwongen uitgekocht worden.
+Als de motie wordt aangenomen, dan zal de regering boeren niet gedwongen uitkopen.
 ## Samenvatting:
 
-De Kamer verzoekt de regering om boeren niet gedwongen uit te kopen als onderdeel van de Nationale Omgevingsvisie, in het bijzonder met betrekking tot de stikstof- en PFAS-problematiek.
+De Kamer verzoekt de regering om boeren niet gedwongen uit te kopen.
 ## Orginele text:
 
 
-93 februari 2023
+Tweede Kamer der Staten-Generaal
 
-34682-138
+Vergaderjaar 2022–2023
+
+34 682
+
 Nationale Omgevingsvisie
-35334
 
-Problematiek rondom stikstof en PFAS
+Nr. 138
 
 MOTIE VAN DE LEDEN VAN HAGA EN SMOLDERS
-Plenair debat (debat) - Debat over het NPLG en de stikstofproblematiek
-
-~
-
-Motie — geen boeren gedwongen uitkopen
-
+Voorgesteld 23 februari 2023
 De Kamer,
-
-c
-
-5
-
-Gehoord de beraadslaging,
-
-Verzoekt de regering om boeren niet gedwongen uit te kopen:
-
-En gaat over tot de orde van de dag.
-
+gehoord de beraadslaging,
+verzoekt de regering om boeren niet gedwongen uit te kopen,
+en gaat over tot de orde van de dag.
 Van Haga
+Smolders
 
-Soldens
+kst-34682-138
+ISSN 0921 - 7371
+’s-Gravenhage 2023
 
-»
+Tweede Kamer, vergaderjaar 2022–2023, 34 682, nr. 138
+
+2
 
 
 ## Prompt samenvatting:

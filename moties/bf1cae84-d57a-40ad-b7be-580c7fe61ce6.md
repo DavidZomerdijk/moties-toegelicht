@@ -7,10 +7,10 @@ Vaststelling van de begrotingsstaat van het Ministerie van Financiën (IXB) en d
 Motie van het lid Inge van Dijk c.s. over het opstellen van een nationaal spaarplan
 ## Implicaties:
 
-Als de motie wordt aangenomen dan zal de regering een nationaal spaarplan opstellen waarin randvoorwaarden worden beschreven voor kwetsbare huishoudens om financiële buffers op te kunnen bouwen, wordt onderzocht welke spaarproducten er beschikbaar zijn, opties worden verkend en aanvullende nationale spaarproducten zoals het zilvervlootsparen worden onderzocht.
+Als de motie wordt aangenomen dan zal de regering een nationaal spaarplan opstellen om kwetsbare huishoudens te helpen financiële buffers op te bouwen.
 ## Samenvatting:
 
-Het lid Inge van Dijk c.s. verzoekt de regering een nationaal spaarplan op te stellen waarin de randvoorwaarden worden beschreven voor kwetsbare huishoudens om financiële buffers op te kunnen bouwen, wordt onderzocht welke spaarproducten er op dit moment voor huishoudens beschikbaar zijn, opties worden verkend, uitgewerkt en verspreid waarmee huishoudens verder kunnen worden gestimuleerd om te sparen, en wordt onderzocht wat aanvullende nationale spaarproducten zoals het zilvervlootsparen kunnen bijdragen
+Het lid Inge van Dijk c.s. verzoekt de regering om een nationaal spaarplan op te stellen waarin de randvoorwaarden worden beschreven voor kwetsbare huishoudens om financiële buffers op te kunnen bouwen, wordt onderzocht welke spaarproducten er op dit moment voor huishoudens beschikbaar zijn, worden opties verkend, uitgewerkt en verspreid waarmee huishoudens verder kunnen worden gestimuleerd om te sparen en wordt onderzocht wat aanvullende nationale spaarproducten zoals het zilvervlootsparen kunnen bijdragen
 ## Orginele text:
 
 

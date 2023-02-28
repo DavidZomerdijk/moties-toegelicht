@@ -6,11 +6,10 @@ Doen waar Nederland goed in is - Strategie voor Buitenlandse Handel en Ontwikkel
 ## Onderwerp:
 Motie van de leden Van Houwelingen en Dekker over alle diplomatieke middelen inzetten om de sancties tegen Syrië op te heffen
 ## Implicaties:
-
-Als de motie wordt aangenomen, dan zal de regering alle diplomatieke middelen inzetten om de sancties tegen Syrië op te heffen.
+Als de motie wordt aangenomen dan zal de regering alle diplomatieke middelen inzetten om de sancties tegen Syrië op te heffen.
 ## Samenvatting:
 
-De Kamer roept de regering op alle diplomatieke middelen in te zetten om de sancties tegen Syrië op te heffen en de Kamer hierover zo spoedig mogelijk te informeren.
+De leden Van Houwelingen en Dekker roepen de regering op alle diplomatieke middelen in te zetten om de sancties tegen Syrië op te heffen en de Kamer hierover zo spoedig mogelijk te informeren.
 ## Orginele text:
 
 
